@@ -1,4 +1,4 @@
-# <p align=center>Dumbo Social Media</p>
+# <p align=center>Wolf Social Media</p>
 <p align="center"><img 
     style="width: 70%;"
     src="https://github.com/fathizaro/WolfSocialMedia/blob/main/images/wolf.png" 
