@@ -14,7 +14,7 @@
 
 
 <p align=center>
-Dumbo is a full-stack social media application in MVC architecture prepared using Spring boot and React. It is developed to learn, so it is not equipped to meet real-world expectations. It performs the basic functions that can be expected from the social media platform properly.</p> 
+Wolf is a full-stack social media application in MVC architecture prepared using Spring boot and React. It is developed to learn, so it is not equipped to meet real-world expectations. It performs the basic functions that can be expected from the social media platform properly.</p> 
 <p align=center>You are free to develop and use it.</p>
 
 ## Techs
